@@ -1,0 +1,23 @@
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form2.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\Work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form3.resources
+C:\Users\Work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form4.resources
+C:\Users\Work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form5.resources
+C:\Users\Work\documents\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form6.resources
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\Work\Desktop\ooad project\4.eticketing\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb

@@ -1,0 +1,23 @@
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form10.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form3.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form4.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form5.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form6.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form7.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form8.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form9.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\work\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Users\Work\Desktop\ooad project\5.credit card system\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+C:\Users\Work\Desktop\ooad project\5.credit card system\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Users\Work\Desktop\ooad project\5.credit card system\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Users\Work\Desktop\ooad project\5.credit card system\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
